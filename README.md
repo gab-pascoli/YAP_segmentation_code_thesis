@@ -9,6 +9,11 @@ compartment, and reports the nuclear-to-cytoplasmic (N/C) intensity ratio — th
 standard readout of YAP/TAZ transcriptional activity — alongside cell shape and
 cell-contact metrics.
 
+If you use this code, please cite:
+
+Gabriel Pascoli (2026). *YAP/TAZ Nuclear–Cytoplasmic Ratio Analysis Pipeline* (Version 1.0).
+GitHub. https://github.com/gab-pascoli/YAP_segmentation_code_thesis
+
 ---
 
 ## Table of Contents
